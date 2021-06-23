@@ -1,0 +1,10 @@
+emp_details:
+  - emp_name: shubam
+    email: shubam23@gmail.com
+    profile: intern2
+  - emp_name: dhanush
+    email: dhanush34@gmail.com
+    profile: intern3
+  - emp_name: arjun
+    email: arjun23@gmail.com
+    profile: intern4
